@@ -1,0 +1,12 @@
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+.n8n/
+
+# Local exports and execution data
+*.log
+execution-data/
