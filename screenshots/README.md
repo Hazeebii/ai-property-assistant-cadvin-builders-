@@ -1,10 +1,10 @@
 # Project screenshots
 
-The four screenshots intended for this folder are:
+Four compressed WebP screenshots are included in this folder:
 
-- `workflow-voice-and-normalization.png` — inbound WhatsApp and voice-note processing
-- `workflow-ai-and-lead-routing.png` — AI agent and lead routing
-- `workflow-crm-integration.png` — CRM lead handling
-- `whatsapp-conversation-example.png` — sample WhatsApp conversation
+- [Inbound WhatsApp and voice-note processing](workflow-voice-and-normalization.webp)
+- [AI agent and lead routing](workflow-ai-and-lead-routing.webp)
+- [CRM lead handling](workflow-crm-integration.webp)
+- [Sample WhatsApp conversation](whatsapp-conversation-example.webp)
 
-Add the four PNG files from the `screenshots/` folder in the project ZIP. The public repository currently contains this index; the image binaries still need to be uploaded through GitHub's web interface because the connected GitHub action supports text files only.
+These are portfolio previews of the supplied n8n workflow and WhatsApp conversation.
